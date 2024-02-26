@@ -1,0 +1,25 @@
+Classificando as linguagens de programação
+
+As linguagens são compostas por:
+
+- Linguagem de maquina (A linguagem que o computador entende)
+- Linguagem assembly (Linguagem de baixo nível)
+- Linguagens de programação (Mais proximas da linguagem humana)
+
+As linguagens de programação existem para facilitar a legibilidade e aprendisado por parte do programador, além disso elas permitem que o programador não precise se preocupar com detalhes irrelevantes na hora de programar, criando assim uma camada de abstração.
+
+As instruções das linguagens de alto nível são bastante abstratas e não estão relacionadas à arquitetura do computador diretamente. As principais linguagens são:
+
+ASP, C, C++, C#, Pascal, Delphi, Java, Javascript, Lua, MATLAB, PHP e Ruby, dentre outras.
+
+Existêm cinco gerações de linguagens de programação.
+
+- A 1ª geração de linguagens é representa pela linguagem de máquina, nativa dos processadores.
+
+- A 2° geração é representada pelas linguagens assembly, elas presisam de um montador chamado assembler.
+
+- A 3° geração já nos apresenta linguagens mais parecidas com a linguagem humana, essas linguagens são repreentadas por: Fortran, BASIC, COBOL, C, PASCAL, C, dentre outras.
+
+- A 4° geração diferentemente da 3° (Que são linguagens procedurais) são linguagens não procedurais exemplos de linguagens de 4° geração são MATLAB, SQL e PostScript.
+
+- A 5° geração nos traz inguagens declarativas e não algorítmicas. Exemplos: Lisp e Prolog. As linguagens de 5ª geração são usadas para desenvolvimento de sistemas especialistas (área da IA), de sistemas de reconhecimento de voz e machine learning.
