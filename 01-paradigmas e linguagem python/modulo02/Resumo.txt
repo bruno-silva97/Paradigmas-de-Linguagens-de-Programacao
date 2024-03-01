@@ -1,0 +1,16 @@
+Criterios de avaliação de linguagens de programação
+
+Primeiro é necessário entender os domínios da programação, são eles:
+    Aplicações cientificas
+    Aplicações comerciais
+    Aplicações com inteligência artificial
+    Programação de sistemas
+    Programação para web
+    Programação mobile
+
+Existem quatro criterios para avaliar uma linguagem de programação
+    Legibilidade
+    Facilidade de escrita
+    Confiabilidade
+    Custo
+    
